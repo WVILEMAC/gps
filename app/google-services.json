@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "417841936714",
+    "firebase_url": "https://gpstarea-34b8e-default-rtdb.firebaseio.com",
+    "project_id": "gpstarea-34b8e",
+    "storage_bucket": "gpstarea-34b8e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417841936714:android:c0cd6781e046a59e7fe9b3",
+        "android_client_info": {
+          "package_name": "com.example.gps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW9FqQ5-mpL_cuYvDoN6C7bIepYng3hdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
